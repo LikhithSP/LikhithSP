@@ -24,7 +24,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
 </p>
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
