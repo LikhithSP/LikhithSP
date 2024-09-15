@@ -1,6 +1,8 @@
 [![MasterHead](https://s6.ezgif.com/tmp/ezgif-6-23330275ea.gif)](https://rishavchanda.io)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=22759A&width=435&lines=Hi+There+!+%22%F0%9F%99%8B%F0%9F%8F%BB%E2%80%8D%E2%99%82%EF%B8%8F%22;I'm+Likhith+SP%2C;Welcome+to+My+GitHub+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB!" alt="Typing SVG" /></a>
+
+![](https://komarev.com/ghpvc/?username=LikhithSP&label=PROFILE+VIEWS)
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
