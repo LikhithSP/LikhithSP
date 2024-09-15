@@ -1,4 +1,4 @@
-## Hi there 👋
+[![MasterHead](https://s3.ezgif.com/tmp/ezgif-3-4a6f8aa2df.gif)](https://rishavchanda.io)
 
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
