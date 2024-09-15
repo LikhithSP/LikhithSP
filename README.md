@@ -22,6 +22,10 @@
     </tr>
   </table>
 </div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&theme=tokyonight" alt="github stats" />
+</p>
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
