@@ -12,6 +12,18 @@
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
 - ⚡ Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
 
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma,git" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,c,androidstudio,wordpress" /><br>
+</div>
+
+<br/>
+<hr/>
+
 ### GitHub Analytics 🧭
 
 <div align="center">
