@@ -11,6 +11,17 @@
 - 🌱 Learning Node.js, React, Express.js, MongoDB, Python, and Web Development.
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
 - 🚀 Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
+
+  ### 🧭 GitHub Analytics
+
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=algolia" alt="LikhithSP's Github stats" /></td>
+      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=algolia&layout=compact" /></td>
+    </tr>
+  </table>
+</div>
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
