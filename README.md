@@ -6,7 +6,7 @@
 
 🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast
 
-### About Me ✍🏻:
+## About Me ✍🏻:
 - 🔭 I’m currently working on Full-Stack Web Development.
 - 🌱 Learning Node.js, React, Express.js, MongoDB, Python, and Web Development.
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
