@@ -12,7 +12,7 @@
 - 👯 Looking to collaborate on Flutter & Web Source Projects.
 - 🚀 Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
 
-  ### 🧭 GitHub Analytics
+###🧭 GitHub Analytics
 
 <div align="center">
   <table>
