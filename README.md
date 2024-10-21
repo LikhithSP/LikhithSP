@@ -42,6 +42,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
 </p>
+<br/>
+<hr/>
+
+### Hacktoberfest 2024 Badges 🔰
+[![An image of @likhithsp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhithsp)](https://holopin.io/@likhithsp)
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
