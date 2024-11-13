@@ -44,7 +44,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
-  <img src="https://leetcode-stats.vercel.app/api?username=LikhithSP&theme=Dark" alt="leetcode stats" />
 </p>
 <br/>
 <hr/>
