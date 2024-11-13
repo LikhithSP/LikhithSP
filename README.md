@@ -48,6 +48,7 @@
 <br/>
 <hr/>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/LikhithSP?theme=nord)
 
 <!--
 **LikhithSP/LikhithSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
