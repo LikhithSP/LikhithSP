@@ -5,16 +5,18 @@
 
 ![](https://komarev.com/ghpvc/?username=LikhithSP&label=PROFILE+VIEWS)
 
-🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 💡 Open Source Enthusiast 
+🚀 Second Year CSE Student | 🖥️ Aspiring Full-Stack Developer | 
 
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21ycmdqZzRhdGJscG5tc203Ym5wbGg5ajFra2lleXBsenF1OWo4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IU9qrGDyGTehdZhEYG/giphy.webp" alt="Coding" align="right" height="200" width="400">
 
 ### About Me ✍🏻:
 
-- 🔭 I’m currently working on React.
+- 🔭 I’m currently working on React Projects.
+- 💬 I sometimes publish blogs <a href="https://likhithsp.hashnode.dev/">here</a>
+- 💻 I have worked on Wordpress websites like <a href="http://likhithwrites.unaux.com">Tech Blog</a> & <a href="http://kpopies.unaux.com">Kpop News</a>
 - 🌱 Learning Node.js, React, Express.js, MongoDB, Python, and Web Development Tools & Frameworks.
-- 👯 Looking to collaborate on Android Studio & Web Source Projects.
-- ⚡ Fun fact : I build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!"
+- 👯 Looking to collaborate on realtime App & Web Open Source Projects.
+- ⚡ Fun fact : I wanna build both sides of the web, but the real magic happens when I finally fix a bug I’ve been chasing for hours!🙃"
 
  <hr/>
  
