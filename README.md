@@ -12,7 +12,7 @@
 ### About Me ✍🏻:
 
 - 🔭 I’m currently working on React Projects.
-- 💬 I sometimes publish blogs <a href="https://likhithsp.hashnode.dev/">here</a>
+- 💬 I sometimes publish blogs on <a href="https://likhithsp.hashnode.dev/">Hashnode</a>
 - 💻 I have worked on Wordpress websites like <a href="http://likhithwrites.unaux.com">Tech Blog</a> & <a href="http://kpopies.unaux.com">Kpop News</a>
 - 🌱 Learning Node.js, React, Express.js, MongoDB, Python, and Web Development Tools & Frameworks.
 - 📽️ At free time i love creating motivational content for my <a href="https://www.youtube.com/@GoUnstoppable/">Youtube</a> Channel
