@@ -36,8 +36,8 @@
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=nightowl&border_radius=13" alt="LikhithSP's Github stats" /></td>
-      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=nightowl&layout=compact" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=algolia&border_radius=13" alt="LikhithSP's Github stats" /></td>
+      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=algolia&layout=compact" /></td>
     </tr>
   </table>
 </div>
