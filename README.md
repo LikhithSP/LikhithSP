@@ -28,7 +28,7 @@
 <br/>
 <hr/>
 
-### Hacktoberfest 2024 Badges 🔰
+### Digital Badges 🎖️
 [![An image of @likhithsp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhithsp)](https://holopin.io/@likhithsp)
 
 ### GitHub Analytics 🧭
