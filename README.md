@@ -5,7 +5,7 @@
 
 🎓 3rd Year CSE Student | 💻 Aspiring SDE | 🚀 Building Scalable Projects
 
-<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Coding" align="right" height="300" width="400">
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Coding" align="right" height="250" width="400">
 
 ### About Me ✍🏻:
 
@@ -34,7 +34,7 @@
   <table>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=algolia&border_radius=13" alt="LikhithSP's Github stats" /></td>
-      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=tokyonight&layout=compact" /></td>
+      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=algolia&layout=compact" /></td>
     </tr>
   </table>
 </div>
@@ -43,4 +43,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=13" alt="github stats" />
 </p>
 <br/>
-<hr/>
