@@ -28,22 +28,19 @@
 <br/>
 <hr/>
 
-### Digital Badges 🎖️
-[![An image of @likhithsp's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/likhithsp)](https://holopin.io/@likhithsp)
-
 ### GitHub Analytics 🧭
 
 <div align="center">
   <table>
     <tr>
       <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=algolia&border_radius=13" alt="LikhithSP's Github stats" /></td>
-      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=algolia&layout=compact" /></td>
+      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&theme=tokyonight&layout=compact" /></td>
     </tr>
   </table>
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LikhithSP&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=13" alt="github stats" />
 </p>
 <br/>
 <hr/>
