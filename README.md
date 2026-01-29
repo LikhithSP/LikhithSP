@@ -5,7 +5,7 @@
 
 🎓 3rd Year CSE Student | 💻 Aspiring SDE | 🚀 Building Scalable Projects
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM21ycmdqZzRhdGJscG5tc203Ym5wbGg5ajFra2lleXBsenF1OWo4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IU9qrGDyGTehdZhEYG/giphy.webp" alt="Coding" align="right" height="200" width="400">
+<img src="https://i.pinimg.com/originals/fb/c6/f3/fbc6f31bd3b84159470b973aca7e0f97.gif" alt="Coding" align="right" height="300" width="400">
 
 ### About Me ✍🏻:
 
