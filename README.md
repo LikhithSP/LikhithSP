@@ -23,14 +23,11 @@
 **=                        ....+************* . Backend Work: ........... APIs, auth, data flow, integrations
 **+                        ....+************* . Open Source: ............ Sharing projects with the developer community.
 ```
-
 <div align="center">
   <table>
     <tr>
-      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=windows-dark&border_radius=13" alt="LikhithSP's Github stats" /></td>
-      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&bg_color=000000&title_color=00A4EF&text_color=00A4EF&layout=compact&border_radius=13" /></td>
+      <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=LikhithSP&theme=windows-dark&background=151b23&text=4493f8&dates=4493f8&labels=4493f8&stroke=4493f8&ring=4493f8&fire=4493f8&border_radius=13" alt="LikhithSP's Github stats" /></td>
+      <td><img height="195px" alt="LikhithSP's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=LikhithSP&bg_color=151b23&title_color=4493f8&text_color=4493f8&icon_color=4493f8&layout=compact&border_radius=13" /></td>
     </tr>
   </table>
 </div>
-
-<p align="center">
